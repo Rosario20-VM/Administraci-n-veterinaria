@@ -1,0 +1,33 @@
+
+#titulo-citas{
+    background-color:#9ce0db;
+    height: 100px;
+    width: 100%;
+    margin-bottom: 30px;
+   
+}
+h2{
+    color: white;
+}
+#editar{
+    margin-right: 20px;
+    
+}
+#btnCita{
+    margin-top: 60PX;
+    border-radius: 25px; 
+    margin-bottom: 60px;
+}
+footer{
+    
+    background-color: #5dc1b9;
+}
+#footer-container{
+    margin-top: 30PX;
+    font-family: 'Shadows Into Light', cursive;
+    
+}
+#redes{
+    margin-top: 70PX;
+
+}

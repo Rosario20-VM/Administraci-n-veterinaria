@@ -1,0 +1,29 @@
+#text-style{
+    background-color:#dcdcdc;
+    border-radius: 20px;  
+    font-family: 'Shadows Into Light', cursive;  
+}
+#btn-agendar{
+    margin-top: 30PX;
+    border-radius: 25px; 
+    margin-bottom: 30px;   
+}
+#btn-cancelar{
+    margin-left: 20px;
+    margin-top: 30PX;
+    border-radius: 25px; 
+    margin-bottom: 30px;
+}
+footer{
+    
+    background-color: #5dc1b9;
+}
+#footer-container{
+    margin-top: 30PX;
+    font-family: 'Shadows Into Light', cursive;
+    
+}
+#redes{
+    margin-top: 70PX;
+
+}
